@@ -12,7 +12,7 @@ This project demonstrates:
 
 ---
 
-## kaggle: ##  https://www.kaggle.com/code/yashpalthakor/tv-script-generator
+### kaggle:  https://www.kaggle.com/code/yashpalthakor/tv-script-generator
 
 ## 📂 Project Structure  
 # TV-Script-Generator
